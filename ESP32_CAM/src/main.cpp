@@ -41,8 +41,8 @@ Compatible with all TTGO camera products, written by LewisHe
 /***************************************
  *  WiFi
  **************************************/
-#define WIFI_SSID   "YourSSID"
-#define WIFI_PASSWD "YourPASSWORD"
+#define WIFI_SSID   "chilihotdog"
+#define WIFI_PASSWD "bxJHckMMkGqEPfY3Jf3nZnAn5FtGYwKZSkzVvbzFHNbpUZfv79GXm8afDuNu"
 
 
 #include "select_pins.h"
